@@ -3,11 +3,11 @@
 LearnLingo is a modern, responsive web application designed to connect students with expert language tutors. Users can browse a comprehensive list of teachers, filter them by language, proficiency level, and price, add their preferred tutors to a favorites list, and seamlessly book trial lessons.
 
 ## 🚀 Live Demo
-**[Live Project URL]** 
+**[Live Project URL]** https://learnlingo-five.vercel.app/
 
 ## 🎨 Design & Technical Specifications
-- **UI Design (Figma):** 
-- **Technical Task:** 
+- **UI Design (Figma):** figma.com/design/dewf5jVviSTuWMMyU3d8Mc/Learn-Lingo?node-id=0-1&t=0thHhkrKywpUBQuF-0
+- **Technical Task:** https://docs.google.com/document/d/1Nx8eEc3_2aFd9eedrGW-WxQBF1IQLXp-THqyOdEPLdc/edit?tab=t.0
 
 ## ✨ Features
 - **User Authentication:** Secure registration and login flows using Firebase Authentication. Form validations handled via React Hook Form and Yup.
